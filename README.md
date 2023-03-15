@@ -1,5 +1,7 @@
 # Roland JP-80x0 Editor & Librarian
 
+![Roland JP-80x0 Editor v3 (work in progress)](https://user-images.githubusercontent.com/46903303/225457377-c25d034a-0fcd-4ab8-81e2-cea1d75d8e72.jpg)
+
 ```
 Note: All download links serve old version while version 3 is being developed.
 Version 3 update is free for anyone who purchases the license now while it is on sale!
